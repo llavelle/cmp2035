@@ -1,0 +1,39 @@
+body{
+	font-family: arial;
+	background-color: #FFFFCC;
+	border: 2px solid #336633;
+	padding: 10px;
+	}
+h1 {
+	color: #880000;
+	padding: 10px;
+	text-align: center;
+	}
+h2 {
+	color: #B80000;
+	}
+h3 {
+	color: #006600;
+	}
+table {
+	border: 3px solid #FF0066;
+}
+td {
+	border: 1px dotted #9999FF;
+}
+th {
+	border: 1px dotted #FF0066;
+}
+legend {
+	font-weight: bold;
+}
+ul {
+	border: 3px outset #FF9999;
+}
+label {
+	font-style: italic;
+}
+p {
+	color: #660099;
+	font-style: italic;
+}
