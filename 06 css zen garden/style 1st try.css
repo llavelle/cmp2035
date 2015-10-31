@@ -1,6 +1,9 @@
 
 html {
-	
+	margin: 0;
+	padding: 0;
+	/*background:#4a789d;*/
+	border:10px solid #4a789d;
 	}
 body { 
 	font: sans-serif;
